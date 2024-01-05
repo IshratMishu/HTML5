@@ -1,0 +1,20 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 100px;
+    text-decoration: none;
+    padding: 100px;
+    
+}
+nav li > a {
+text-decoration: none;
+margin: 0 auto;
+}
+footer{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+header{
+    padding: 10px;
+}
