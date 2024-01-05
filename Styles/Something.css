@@ -18,3 +18,17 @@ main{
 header{
     padding: 10px;
 }
+section{
+    text-align: justify;
+}
+.Sally{
+    text-align: center;
+    font-style: inherit;
+    padding: 10px;
+    font-size: xx-large;
+    border-bottom: double;
+    border-top: double;
+}
+div{
+    text-align: center;
+}
